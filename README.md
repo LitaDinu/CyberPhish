@@ -1,4 +1,4 @@
-# CyberPhish
+# CyberPhish Este valabil doar pe Kali Linux 
 
 Un instrument de phishing personalizabil puternic armat, doar în scop educațional. Conține șabloane de e-mail de phishing ale platformelor de social media utilizate în principal.
 Comenzi de instalare:
